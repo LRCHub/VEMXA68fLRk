@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Why Don't We Go There",
+  "base_artist": "One Direction",
+  "createdAt": "2025-12-24T15:45:33.018221Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Why Don't We Go There",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/01_Why_Don't_We_Go_There_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Why Don't We Go There",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/02_Why_Don't_We_Go_There_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Why Don't We Go There",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/03_Why_Don't_We_Go_There_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Why Don't We Go There",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/04_Why_Don't_We_Go_There_One_Direction.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Why Don't We Go There",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_Why_Don't_We_Go_There_One_Direction.txt"
+    }
+  ]
+}
