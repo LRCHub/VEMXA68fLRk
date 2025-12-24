@@ -1,0 +1,44 @@
+# One Direction – Why Don't We Go There
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:05.81] I know you want, know you wanna take it slow
+[00:11.63] Think about all the places we could go
+[00:17.06] If you give in tonight
+[00:19.73] Just let me set you free
+[00:22.68] We'll touch the other side, just give me the key
+[00:29.03] 'Cause we got all night
+[00:31.78] And we're going nowhere
+[00:34.88] Why don't you stay
+[00:37.82] Why don't we go there?
+[00:40.94] Let's take a ride
+[00:43.98] Out in the cold air
+[00:46.78] I know the way, why don't you go there with me?
+[00:59.64] Say the word, say the word but don't say no
+[01:05.86] Skydive, you and I, with just these clothes
+[01:11.02] The secret's safe with me
+[01:13.67] There's no right time or place
+[01:16.61] 'Cause anyone can see we'll do it anyway
+[01:23.08] 'Cause we got all night
+[01:25.80] We're going nowhere
+[01:28.96] Why don't you stay
+[01:31.87] Why don't we go there?
+[01:34.99] Let's take a ride
+[01:37.63] Out in the cold air
+[01:40.78] I know the way, why don't you go there with me?
+[01:53.90] Hey, I don't want you to be the one that got away
+[01:57.48] I wanna get addicted to you, yeah
+[02:00.35] You're rushing through my mind, I wanna feel the high
+[02:03.37] I wanna be addicted, don't say no
+[02:07.90] Just let go
+[02:10.97] 'Cause we got all night
+[02:13.85] And we're going nowhere
+[02:16.81] Why don't you stay
+[02:19.76] Why don't we go there?
+[02:22.95] Let's take a ride
+[02:25.83] Out in the cold air
+[02:28.84] I know the way, why don't you go there with me?
+[02:38.23] With me, with me
+[02:44.25] Why don't you go there with me?
+```
